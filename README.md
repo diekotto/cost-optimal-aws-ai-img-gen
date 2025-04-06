@@ -2,6 +2,8 @@
 
 A proof of concept for running open-source AI image generation in a cost-effective way using AWS Batch.
 
+![Vibe Coded](https://img.shields.io/badge/vibe--coded-🤖%20absolutely-222831?style=flat-square)
+
 ## Overview
 
 This project provides an infrastructure-as-code solution to deploy [Fooocus](https://github.com/lllyasviel/Fooocus), an open-source image generation tool, on AWS in a pay-as-you-go model using AWS Batch. Instead of running expensive GPU instances 24/7, this solution:
